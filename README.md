@@ -104,7 +104,7 @@ JavaScript is at the core of a fascinating new wave of online application develo
   <img src="https://github.com/shakib-anwar-nibir17/shakib-anwar-nibir17/blob/main/screencapture-library-lumina-sn17-web-app-2023-12-09-18_11_22.png?raw=true" alt="Your Image Alt Text" width="300">
 </p>
 
-[Live Link](library-lumina-sn17.web.app)
+[Live Link](https://library-lumina-sn17.web.app/)
 
 - [Front End Code](https://github.com/shakib-anwar-nibir17/lumina-library-sn17-client)
 
@@ -138,7 +138,7 @@ JavaScript is at the core of a fascinating new wave of online application develo
 
 ## Velocity Drive
 
-[Live Link](velocity-drive-sn17.web.app)
+[Live Link](https://velocity-drive-sn17.web.app/)
 
 - [Front End Code](https://github.com/shakib-anwar-nibir17/velocity-drive-sn17-client)
 
