@@ -18,6 +18,8 @@
   <img src="https://visitcount.itsvg.in/api?id=shakib-anwar-nibir17&label=Profile%20Views&color=1&pretty=true" />
 </a>
 
+![GitHub Profile Summary Cards](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shakib-anwar-nibir17&theme=algolia)
+
 <!--
 **shakib-anwar-nibir17/shakib-anwar-nibir17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
