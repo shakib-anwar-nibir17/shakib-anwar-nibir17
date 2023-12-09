@@ -53,7 +53,7 @@ JavaScript is at the core of a fascinating new wave of online application develo
   <img src="https://github.com/shakib-anwar-nibir17/shakib-anwar-nibir17/blob/main/screencapture-inventory-mangement-sn17-web-app-2023-12-09-18_16_14.png?raw=true" alt="Your Image Alt Text" width="300">
 </p>
 
-- [Live Link](https://inventory-mangement-sn17.web.app)
+[Live Link](https://inventory-mangement-sn17.web.app)
 
 - [Front End Code](https://github.com/shakib-anwar-nibir17/inventisync-sn17-client)
 
