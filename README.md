@@ -10,9 +10,7 @@
 
 ![GitHub Profile Summary Cards](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shakib-anwar-nibir17&theme=algolia)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shakib-anwar-nibir17&theme=algolia)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shakib-anwar-nibir17&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shakib-anwar-nibir17&theme=algolia)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shakib-anwar-nibir17&theme=algolia)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shakib-anwar-nibir17&theme=algolia)
 
