@@ -13,6 +13,12 @@ JavaScript is at the core of a fascinating new wave of online application develo
 
 </h3>
 
+# 🌐 Socials:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shakibnibir17)
+
+<br>
+
 # Skills and Technologies
 
 <p align="center">
