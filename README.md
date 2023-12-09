@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <div align="center">
   <img src="https://github.com/shakib-anwar-nibir17/shakib-anwar-nibir17/blob/main/ezgif.com-video-to-gif%20(1).gif?raw=true" width="100%">
 </div>
