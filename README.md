@@ -11,9 +11,9 @@ JavaScript is at the core of a fascinating new wave of online application develo
 
 </h3>
 
-# 🌐 Socials:
+<!-- # 🌐 Socials: -->
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shakibnibir17)
+<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shakibnibir17) -->
 
 <br>
 
@@ -37,9 +37,9 @@ JavaScript is at the core of a fascinating new wave of online application develo
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shakib-anwar-nibir17&theme=algolia)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shakib-anwar-nibir17&theme=algolia&utcOffset=8)
 
-<a href="https://visitcount.itsvg.in">
+<!-- <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=shakib-anwar-nibir17&label=Profile%20Views&color=1&pretty=true" />
-</a>
+</a> -->
 
 ---
 
