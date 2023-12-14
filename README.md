@@ -21,7 +21,7 @@ JavaScript is at the core of a fascinating new wave of online application develo
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,express,figma,firebase,html,js,mongodb,nodejs,vercel,vite,vscode" />
+    <img src="https://skillicons.dev/icons?i=css,express,figma,firebase,html,js,react,mongodb,nodejs,vercel,vite,vscode" />
   </a>
 </p>
 
